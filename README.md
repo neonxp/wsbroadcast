@@ -1,4 +1,4 @@
-# Websocket broadcaster
+# Websocket broadcaster ![Build and Test](https://github.com/neonxp/wsbroadcast/workflows/Build%20and%20Test/badge.svg)
 
 Simple websocket chat server
 
