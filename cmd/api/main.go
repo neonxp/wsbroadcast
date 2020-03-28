@@ -26,9 +26,9 @@ import (
 
 	"github.com/neonxp/rutina/v2"
 
-	"backend/pkg/api"
-	"backend/pkg/config"
-	"backend/pkg/db"
+	"github.com/neonxp/wsbroadcast/pkg/api"
+	"github.com/neonxp/wsbroadcast/pkg/config"
+	"github.com/neonxp/wsbroadcast/pkg/db"
 )
 
 func main() {

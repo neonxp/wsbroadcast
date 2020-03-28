@@ -29,7 +29,7 @@ import (
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 
-	"backend/pkg/model"
+	"github.com/neonxp/wsbroadcast/pkg/model"
 )
 
 func (s *Server) createChannel(c echo.Context) error {

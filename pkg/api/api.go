@@ -33,8 +33,8 @@ import (
 
 	"github.com/labstack/echo/v4"
 
-	"backend/pkg/config"
-	"backend/pkg/db"
+	"github.com/neonxp/wsbroadcast/pkg/config"
+	"github.com/neonxp/wsbroadcast/pkg/db"
 )
 
 type Server struct {

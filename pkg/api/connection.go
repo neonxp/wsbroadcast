@@ -21,7 +21,7 @@ THE SOFTWARE.
 */
 package api
 
-import "backend/pkg/model"
+import "github.com/neonxp/wsbroadcast/pkg/model"
 
 type connection struct {
 	ID    uint64 `json:"id"`

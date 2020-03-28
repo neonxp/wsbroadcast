@@ -28,7 +28,7 @@ import (
 	"github.com/labstack/echo/v4"
 	"golang.org/x/net/websocket"
 
-	"backend/pkg/model"
+	"github.com/neonxp/wsbroadcast/pkg/model"
 )
 
 func (s *Server) websocketHandler(c echo.Context) error {
