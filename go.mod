@@ -1,6 +1,6 @@
 module github.com/neonxp/wsbroadcast
 
-go 1.14
+go 1.18
 
 require (
 	github.com/caarlos0/env v3.5.0+incompatible
